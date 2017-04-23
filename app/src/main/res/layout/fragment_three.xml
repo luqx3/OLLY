@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFFFF">
+
+    <LinearLayout android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:layout_margin="10dp"
+        >
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:weightSum="1"
+            android:background="#EEE">
+            <TextView
+
+                android:text="男生分类"
+                style="@style/Textview"
+                android:textColor="#000000"
+
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/LinearBookRow"
+            >
+            <Button
+                android:id="@+id/kind_1"
+                android:text="东方玄幻"
+                style="@style/Fragment3item"
+                android:textColor="@color/gray"
+                />
+            <Button
+                android:id="@+id/kind_2"
+                style="@style/Fragment3item"
+                android:text="古典仙侠"
+                android:textColor="@color/gray"
+
+                />
+            <Button
+                android:id="@+id/kind_3"
+                android:text="都市生活"
+                android:textColor="@color/gray"
+                style="@style/Fragment3item"/>
+        </LinearLayout>
+
+        <LinearLayout style="@style/LinearBookRow">
+            <Button
+                android:id="@+id/kind_4"
+                android:text="修真"
+                android:textColor="@color/gray"
+                style="@style/Fragment3item"/>
+            <Button
+                android:id="@+id/kind_5"
+                style="@style/Fragment3item"
+                android:text="武侠"
+                android:textColor="@color/gray"
+                />
+            <Button
+                android:id="@+id/kind_6"
+                style="@style/Fragment3item"
+                android:textColor="@color/gray"
+                android:text="灵异"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFFFF"
+        android:layout_margin="10dp"
+        >
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:weightSum="1"
+            android:background="#EEE">
+            <TextView
+
+
+                android:text="女生分类"
+                android:textColor="#000000"
+                style="@style/Textview"
+
+                />
+        </LinearLayout>
+        <LinearLayout style="@style/LinearBookRow"
+            >
+            <Button
+                android:id="@+id/kind_gril_1"
+                android:text="古代言情"
+                style="@style/Fragment3item"
+                android:textColor="@color/gray"
+                />
+            <Button
+                android:id="@+id/kind_gril_2"
+                android:text="现代言情"
+                style="@style/Fragment3item"
+                android:textColor="@color/gray"
+                />
+            <Button
+                android:id="@+id/kind_gril_3"
+                android:text="现代修真"
+                android:textColor="@color/gray"
+                style="@style/Fragment3item"/>
+        </LinearLayout>
+
+        <LinearLayout style="@style/LinearBookRow">
+            <Button
+                android:id="@+id/kind_gril_4"
+                android:text="穿越"
+                android:textColor="@color/gray"
+                style="@style/Fragment3item"/>
+            <Button
+                android:id="@+id/kind_gril_5"
+                android:text="重生"
+                android:textColor="@color/gray"
+                style="@style/Fragment3item"/>
+            <Button
+                android:id="@+id/kind_gril_6"
+                android:text="宫廷"
+                android:textColor="@color/gray"
+                style="@style/Fragment3item"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
+

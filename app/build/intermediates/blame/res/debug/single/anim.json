@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\m_up_dialog.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\m_up_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\head_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\m_up_dialog.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\m_up_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\m_down_dialog.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\m_down_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\head_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\m_down_dialog.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\m_down_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\head_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\head_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\head_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\head_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\push_top_in2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\push_top_in2.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\m_up_dialog.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\m_up_dialog.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\m_down_dialog.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\m_down_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\push_top_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\push_top_in2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\push_top_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\push_top_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_popup_exit.xml"
+    }
+]

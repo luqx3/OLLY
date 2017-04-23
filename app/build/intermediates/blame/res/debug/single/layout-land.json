@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_login.xml",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\layout-land\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_login.xml",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\layout-land\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_login.xml",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\layout-land\\activity_login.xml"
+    }
+]

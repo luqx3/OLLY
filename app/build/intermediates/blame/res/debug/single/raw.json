@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\smssdk_pydb",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.3\\res\\raw\\smssdk_pydb"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\smssdk_pydb",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.3\\res\\raw\\smssdk_pydb"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\smssdk_pydb",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.3\\res\\raw\\smssdk_pydb"
+    }
+]

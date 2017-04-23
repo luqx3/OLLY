@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\MobTools-2016.1201.1839.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="28b130b739199908b8b9f82d6cc77043b5040d25">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\MobTools-2016.1201.1839_026a9b9454efdce22e1e9ce6a4914bd526fce249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_000f72775e5ed23810db70f92834ef18cf215101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.0.1_f1fad067524f74534417a99d796bb688a16a5ee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\universal-image-loader-1.8.7-snapshot-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c9712c0ace25c14ba55c1f98741a0e6a6084d7b1">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.7-snapshot-with-sources_3bfe049f171e986a658218fdd6c720ca8edc6431.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_2b3a01a8edc3f4e93601418a7089c6f3bb7b71d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\apache-httpcomponents-httpcore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\apache-httpcomponents-httpcore_bfe89d59770b2dbae5cddfec1f15a85ead98627a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_3aa20eea4e81ca173f159a15d1264d340306b55b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0_a89d57df76855090136d7e8f87527927e2cb39a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\easemobchat_2.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="db85b4623b9d5c43156d802e3bc60f570dcb6ff7">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\easemobchat_2.1.5_d014b2bc6ab8a4753e84a6a1c6d0254f84e7454b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\mysql-connector-java-5.1.36-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="df340b878861acd94a853dbab3e40a1b203cef21">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\mysql-connector-java-5.1.36-bin_a958cd190cd0b9b4fa5b92de85b91638a0c0543c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3_78e1f31fed81d9fc3ecfb310b32943c74e4d2e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\exploded-aar\SMSSDKGUI-2.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="117dde8406e2a9aed9d525a23ea465952d601072">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-SMSSDKGUI-2.1.3_eefc847d7ec553d9d1f30a2d4080fd92e58aa703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\exploded-aar\SMSSDK-2.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fc6d206c94c04bb831ae00c9f6a2833e6aab8a73">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-SMSSDK-2.1.3_d9acd12e392a12bd5e3f60f0f70f76ee7ee8fb2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\zxing-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="327bddfe22740db0419bd719a0f950b6ad2b3c3f">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\zxing-1.6_d3bde18a22c8716ec91facd50d44807e7492f3fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_832d54c67da412817c6a8312805edbc268f714aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\support.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="23670db5f1d039dca7bf2fe7feca8791752f9ee5">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\support_8d935a9d3d44ecf9f0df0b88746dab2ce95dce30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_3e90af5c6da1774b7035aba05e34a35e90fbfe16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\MobCommons-2016.1201.1839.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d2416fb4e3fe16c82785fc6cd4f8b768b25c6202">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\MobCommons-2016.1201.1839_3c18e8c40fd053b260152eb16d320cf3f4bde429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\JsonUtils.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c3b5a4f2e244dd8a3d55bfb430fcea53a4ad6bfa">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\JsonUtils_00b358db24abb3e776a3a5d03419cadc597be7d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\pushservice-4.4.0.71.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9509cfa0c9817d0905fc6f9b0d417a4730884966">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\pushservice-4.4.0.71_6379657868a1ee20d486a94b52d4ae6683aa6d28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_7891ba4a1ae2355c92fbdedfda39ae6f3d91fc9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_5a3c70d91a7ea9eef0ba6cbee410f9f3cb50784b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\locSDK_3.3_b653f5a5a2f8c6fbd9c89fb326d9baeffa722298.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\volley_83d78564339051026414dca7106d308fa800135f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_98cffc0b75539046e1fd9f912b133c6ddcf94f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_9642e2f648b9f6bc97a8b45fd3aad864eb9afaab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\JunsNetHelper.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="847be7b7729e31bdec666e0b43d1f00b62ab6557">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\JunsNetHelper_fa328712f0f815e5b7e35fccf97aa5181115c557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\afinal-0.3.32-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="54417b03f2eb410e2a94428512e4f4218e7fc012">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\afinal-0.3.32-bin_52710e4ecdb9486fd21389324a24e53d2cb66199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c8d3cb79562ea2156cb8d9211225ea0c261170e8">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\library_c25a855b121df31b2c1985d60f91034ca9c9c15f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\OLLY4_1\app\libs\jsoup-1.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="C:\Users\HP\Desktop\OLLY4_1\app\build\intermediates\pre-dexed\debug\jsoup-1.7.2_30e17522dfdd456431eb0da39b59130aee20f224.jar" />
+    </item>
+
+</items>

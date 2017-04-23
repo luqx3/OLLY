@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/my_info"
+            android:icon="@drawable/eyes"
+            android:title="个人信息" />
+        <item
+            android:id="@+id/aboutus"
+            android:icon="@drawable/eyes"
+            android:title="关于我们" />
+
+    </group>
+
+    <item android:title="线下图书馆" android:checkable="true">
+        <menu>
+            <item
+                android:id="@+id/book_borrow_his"
+                android:icon="@drawable/eyes"
+                android:title="历史书单" />
+            <item
+                android:id="@+id/book_borrow"
+                android:icon="@drawable/eyes"
+                android:title="未还书单" />
+            <item
+                android:id="@+id/Search_in_DB"
+                android:icon="@drawable/eyes"
+                android:title="找书借书" />
+        </menu>
+    </item>
+
+</menu>

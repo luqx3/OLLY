@@ -1,0 +1,938 @@
+[
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_focused_holo.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\rating_small_full.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\rating_small_full.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search_white_24dp.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_less_black_16dp.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_expand_less_black_16dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_right_light.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_right_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search_white_24dp.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\rating_small_half.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\rating_small_half.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search_query.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_query.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_left_dark.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_pets_dark.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pets_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_pets_dark.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pets_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_less_black_12dp.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_expand_less_black_12dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_down_light_round.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_down_light_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_left_dark.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeline_month_day.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\timeline_month_day.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search_light.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_light.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\personal_circle.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\personal_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeline_green.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\timeline_green.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_gender_male_white.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_gender_male_white.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_fork_clear_light.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_fork_clear_light.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_library_books_white_24dp.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_library_books_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\search_icon.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\add_icon.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\add_icon.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back_light.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_focused_holo.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeline_year.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\timeline_year.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\rating_small_empty.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\rating_small_empty.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\back_icon.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_filter_list_white_24dp.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\personal_circle.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\personal_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_green_circle_smic.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\bg_green_circle_smic.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_sort_white_24dp.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeline_year.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\timeline_year.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_more_black_12dp.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_expand_more_black_12dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_sort_white_24dp.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeline_green.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\timeline_green.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_more_black_16dp.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_expand_more_black_16dp.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\rating_small_empty.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\rating_small_empty.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_green_circle_smic.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\bg_green_circle_smic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_scan_light.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_scan_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\search_icon.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_import_contacts_white_24dp.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_import_contacts_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_color_lens_white_24dp.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_color_lens_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\rating_small_full.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\rating_small_full.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\rating_small_empty.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\rating_small_empty.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_library_books_white_24dp.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_library_books_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeline_month_day.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\timeline_month_day.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dashboard_white_24dp.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_dashboard_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search_light.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\rating_small_half.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\rating_small_half.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\rating_small_full.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\rating_small_full.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search_light.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_right_light.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_right_light.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_more_black_16dp.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_expand_more_black_16dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_liked.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_liked.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_less_black_16dp.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_expand_less_black_16dp.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_sort_white_24dp.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search_query.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_query.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share_white_24dp.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeline_year.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\timeline_year.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\search_icon.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_gender_male_white.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_gender_male_white.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_fork_clear_light.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_fork_clear_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_scan_light.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_scan_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_less_black_16dp.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_expand_less_black_16dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\rating_small_half.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\rating_small_half.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_like.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_like.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeline_month_day.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\timeline_month_day.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_less_black_12dp.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_expand_less_black_12dp.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeline_green.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\timeline_green.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_scan_light.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_scan_light.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_gender_male_white.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_gender_male_white.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_gender_female_white.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_gender_female_white.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_left_dark.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\add_icon.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\add_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share_white_24dp.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_liked.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_liked.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_down_light_round.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_down_light_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_color_lens_white_24dp.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_color_lens_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_icon.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search_white_24dp.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_green_circle_smic.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\bg_green_circle_smic.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_like.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_library_books_white_24dp.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_library_books_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back_light.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back_light.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dashboard_white_24dp.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_dashboard_white_24dp.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\add_icon.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\add_icon.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeline_content.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\timeline_content.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_like.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_like.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_fork_clear_light.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_fork_clear_light.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\back_icon.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_icon.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back_light.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_import_contacts_white_24dp.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_import_contacts_white_24dp.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_icon.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeline_content.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\timeline_content.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_gender_female_white.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_gender_female_white.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_filter_list_white_24dp.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_color_lens_white_24dp.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_color_lens_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_gender_female_white.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_gender_female_white.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\personal_circle.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\personal_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_more_black_12dp.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_expand_more_black_12dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_filter_list_white_24dp.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search_query.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_query.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dashboard_white_24dp.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_dashboard_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_import_contacts_white_24dp.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_import_contacts_white_24dp.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_more_black_12dp.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_expand_more_black_12dp.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_more_black_16dp.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_expand_more_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\back_icon.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\back_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_pets_dark.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pets_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_liked.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_liked.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_less_black_12dp.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_expand_less_black_12dp.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_down_light_round.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_down_light_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeline_content.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\timeline_content.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\AndroidStudio\\OLLY4_2\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\HP\\Desktop\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_right_light.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_right_light.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\OLLY4_1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share_white_24dp.png",
+        "source": "E:\\android\\Project\\OLLY4_1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_share_white_24dp.png"
+    }
+]
